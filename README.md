@@ -11,3 +11,13 @@ SAMPLE of how deterministic guardrails fit with Human-in-the-loop safety control
 * This requires a stop button that is available on the log page and is capable of stopping the LLM.
 * All outputs for high-risk data also require a 2-human review process.
 
+
+
+CAUTION THIS WORKFLOW IS INCOMPLETE AND MISSING PROPRIETARY INFORMATION!
+
+
+
+Directions: 
+
+This is just a blueprint of architecture; you don't need to do anything with it.
+
